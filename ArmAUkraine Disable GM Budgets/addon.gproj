@@ -1,0 +1,8 @@
+GameProject {
+ ID "ArmAUkraineDisableGMBudgets"
+ GUID "5E02A7DD444FBD2D"
+ TITLE "ArmAUkraine Disable GM Budgets"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
