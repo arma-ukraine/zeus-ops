@@ -1,0 +1,11 @@
+Vehicle BTR70_Base1 : "{1C5FE7B7FF49BB8D}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Base.et" {
+ components {
+  SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 13602.9
+  }
+ }
+ coords 1630.538 7.396 1988.304
+}
+GenericEntity : "{DE95B0C3CA5F9D5D}Prefabs/Weapons/Rifles/AK12/Rifle_AK12.et" {
+ coords 1633.792 7.48 1988.306
+}
